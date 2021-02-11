@@ -229,4 +229,14 @@ main .editForm form > button {
     color: white;
     padding: 10px 0;
     border-radius: 5px;
+    margin-top: 5px;
+}
+
+main .editForm form > button:hover {
+    background: #dadce0;
+    color: #0d6efd;
+}
+
+img.john {
+    margin: 0px auto;
 }

@@ -1,0 +1,26 @@
+{
+  "name": "notitas",
+  "version": "1.0.0",
+  "description": "Evaluación individual",
+  "main": "./src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mayub85/Notitas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mayub85/Notitas/issues"
+  },
+  "homepage": "https://github.com/Mayub85/Notitas#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.5.0"
+  }
+}
